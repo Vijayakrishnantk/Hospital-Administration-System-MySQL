@@ -27,21 +27,25 @@ VS Code / SQL Editor – Writing and organizing SQL scripts
 🗂️ Project Structure
 
 Hospital-Administration-System-MySQL/
+
 ├── database/
 │   ├── 01_database_creation.sql
 │   ├── 02_table_design.sql
 │   └── 03_data_import.sql
 │
+
 ├── queries/
 │   ├── 04_business_queries.sql
 │   ├── 05_update_delete.sql
 │   └── 06_advanced_queries.sql
 │
+
 └── sample-data/
     └── hospital_dataset.xlsx
 
 
 🎯 Features Implemented
+
 Department and doctor management
 Patient record maintenance
 Appointment scheduling and tracking
@@ -51,6 +55,7 @@ Update and delete operations
 Advanced SQL analytics
 
 📊 Business Queries Covered
+
 Display patients with their doctor name and specialization
 Show all appointments scheduled for today
 List doctors working in a specific department
@@ -60,6 +65,7 @@ Count total appointments handled by each doctor
 Display department-wise doctor count
 
 📌 Key Findings
+
 Doctor–Patient Mapping: JOIN operations efficiently link patients with their doctors and departments.
 Revenue Analysis: Billing data helps calculate total revenue and identify unpaid bills.
 Appointment Insights: Appointment counts per doctor reveal workload distribution.
