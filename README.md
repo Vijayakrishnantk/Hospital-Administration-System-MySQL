@@ -1,5 +1,7 @@
 🏥 Hospital Administration System (MySQL)
+
 📌 Project Overview
+
 This project simulates a real-world Hospital Administration System using MySQL.
 It manages hospital operations such as departments, doctors, patients, appointments, and billing.
 
@@ -10,12 +12,14 @@ Table relationships using foreign keys
 Business-oriented SQL queries
 CRUD operations
 Advanced SQL concepts
+
 🛠️ Tools Used
 MySQL / MySQL Workbench – Database creation, table design, queries, and data manipulation
 SQL – Joins, subqueries, aggregate functions, GROUP BY, HAVING
 Microsoft Excel – Source dataset for hospital records
 Git & GitHub – Version control and project hosting
 VS Code / SQL Editor – Writing and organizing SQL scripts
+
 🗂️ Project Structure
 
 Hospital-Administration-System-MySQL/
@@ -32,6 +36,7 @@ Hospital-Administration-System-MySQL/
 └── sample-data/
     └── hospital_dataset.xlsx
 
+
 🎯 Features Implemented
 Department and doctor management
 Patient record maintenance
@@ -40,6 +45,7 @@ Billing and payment status management
 Business reporting using SQL queries
 Update and delete operations
 Advanced SQL analytics
+
 📊 Business Queries Covered
 Display patients with their doctor name and specialization
 Show all appointments scheduled for today
@@ -48,6 +54,7 @@ Calculate total revenue from paid bills
 Identify patients with unpaid bills
 Count total appointments handled by each doctor
 Display department-wise doctor count
+
 📌 Key Findings
 Doctor–Patient Mapping: JOIN operations efficiently link patients with their doctors and departments.
 Revenue Analysis: Billing data helps calculate total revenue and identify unpaid bills.
