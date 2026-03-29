@@ -10,15 +10,19 @@ The project is designed as a Junior SQL Developer portfolio project and demonstr
 Relational database design
 Table relationships using foreign keys
 Business-oriented SQL queries
-CRUD operations
 Advanced SQL concepts
 
 🛠️ Tools Used
 MySQL / MySQL Workbench – Database creation, table design, queries, and data manipulation
+
 SQL – Joins, subqueries, aggregate functions, GROUP BY, HAVING
+
 Microsoft Excel – Source dataset for hospital records
-Git & GitHub – Version control and project hosting
+
+GitHub – Version control and project hosting
+
 VS Code / SQL Editor – Writing and organizing SQL scripts
+
 
 🗂️ Project Structure
 
